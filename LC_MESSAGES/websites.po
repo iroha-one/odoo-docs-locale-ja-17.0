@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -352,7 +352,7 @@ msgstr ""
 #: ../../content/applications/websites/website/configuration/cookies_bar.rst:24
 #: ../../content/applications/websites/website/reporting/link_tracker.rst:10
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/websites/ecommerce/checkout_payment_shipping/payments.rst:16
 msgid "To set up payment providers on the eCommerce app, go to :menuselection:`Website --> Configuration --> Payment Providers`. From here, :guilabel:`Activate` the payment providers you wish to have available on your shop, and configure them according to your needs."

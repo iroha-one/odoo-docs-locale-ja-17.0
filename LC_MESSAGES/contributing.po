@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../content/contributing.rst:6
 msgid "Contributing"
-msgstr ""
+msgstr "コントリビューション"
 
 #: ../../content/contributing.rst:8
 msgid "First off, **thank you** for landing here and considering contributing to Odoo!"
@@ -396,7 +396,7 @@ msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:29
 msgid "Module structure"
-msgstr ""
+msgstr "モジュール構造"
 
 #: ../../content/contributing/development/coding_guidelines.rst:32
 msgid "Directories"
@@ -1463,7 +1463,7 @@ msgstr ""
 
 #: ../../content/contributing/documentation.rst:5
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: ../../content/contributing/documentation.rst:14
 msgid "This introductory guide will help you acquire the tools and knowledge you need to write documentation, whether you plan to make a minor content change or document an application from scratch."
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:3
 msgid "Content guidelines"
-msgstr ""
+msgstr "コンテンツガイドライン"
 
 #: ../../content/contributing/documentation/content_guidelines.rst:5
 msgid "To give the community the best documentation possible, we listed here a few guidelines, tips and tricks that will make your content shine at its brightest! While we encourage you to adopt your own writing style, some rules still apply to give the reader more clarity and comprehension."
@@ -1857,7 +1857,7 @@ msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:0
 msgid "Example:"
-msgstr ""
+msgstr "例："
 
 #: ../../content/contributing/documentation/content_guidelines.rst:0
 msgid "To do so, go to ``:menuselection:`App name --> Menu --> Sub-menu```, and enable the XYZ feature."
@@ -2487,7 +2487,7 @@ msgstr ""
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:635
 msgid "Name"
-msgstr ""
+msgstr "名前（name）"
 
 #: ../../content/contributing/documentation/rst_cheat_sheet.rst:636
 msgid "Country"

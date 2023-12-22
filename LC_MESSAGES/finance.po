@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -192,7 +192,7 @@ msgstr ""
 #: ../../content/applications/finance/fiscal_localizations/colombia.rst:138
 #: ../../content/applications/finance/fiscal_localizations/peru.rst:325
 msgid "Partner"
-msgstr ""
+msgstr "パートナー"
 
 #: ../../content/applications/finance/accounting.rst:155
 msgid "Partner ledger"
@@ -471,7 +471,7 @@ msgstr ""
 #: ../../content/applications/finance/payment_providers/sips.rst:9
 #: ../../content/applications/finance/payment_providers/wire_transfer.rst:30
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/finance/accounting/bank.rst:79
 msgid "You can edit the accounting information and bank account number according to your needs."
@@ -1587,7 +1587,7 @@ msgstr ""
 #: ../../content/applications/finance/accounting/get_started/chart_of_accounts.rst:52
 #: ../../content/applications/finance/fiscal_localizations/united_arab_emirates.rst:56
 msgid "Type"
-msgstr ""
+msgstr "型"
 
 #: ../../content/applications/finance/accounting/bank/reconciliation_models.rst:90
 msgid "See :ref:`above <reconciliation_models_types>` for an explanation about the different types of Reconciliation Models."
@@ -11790,7 +11790,7 @@ msgstr ""
 #: ../../content/applications/finance/fiscal_localizations/united_arab_emirates.rst:16
 #: ../../content/applications/finance/fiscal_localizations/united_kingdom.rst:14
 msgid "Name"
-msgstr ""
+msgstr "名前（name）"
 
 #: ../../content/applications/finance/fiscal_localizations/argentina.rst:30
 #: ../../content/applications/finance/fiscal_localizations/austria.rst:15
@@ -14335,7 +14335,7 @@ msgstr ""
 
 #: ../../content/applications/finance/fiscal_localizations/chile.rst:22
 msgid "Modules"
-msgstr ""
+msgstr "モジュール"
 
 #: ../../content/applications/finance/fiscal_localizations/chile.rst:24
 msgid ":ref:`Install <general/install>` the following modules to utilize all the features of the Chilean localization."
@@ -16214,7 +16214,7 @@ msgstr ""
 #: ../../content/applications/finance/fiscal_localizations/ecuador.rst:22
 #: ../../content/applications/finance/spreadsheet.rst:26
 msgid "Glossary"
-msgstr ""
+msgstr "用語"
 
 #: ../../content/applications/finance/fiscal_localizations/ecuador.rst:24
 msgid "Here are some terms that are essential on the Ecuadorian localization:"
