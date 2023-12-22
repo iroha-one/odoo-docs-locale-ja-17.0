@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:48\n"
+"PO-Revision-Date: 2023-12-22 12:22\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -380,19 +380,19 @@ msgstr ""
 
 #: ../../content/contributing/development/coding_guidelines.rst:5
 msgid "Coding guidelines"
-msgstr ""
+msgstr "コーディング ガイドライン"
 
 #: ../../content/contributing/development/coding_guidelines.rst:7
 msgid "This page introduces the Odoo Coding Guidelines. Those aim to improve the quality of Odoo Apps code. Indeed proper code improves readability, eases maintenance, helps debugging, lowers complexity and promotes reliability. These guidelines should be applied to every new module and to all new development."
-msgstr ""
+msgstr "本ページでは、Odoo コーディングガイドラインを紹介し、Odoo Appsコードの品質向上を目指しています。 実際に適切なコードは読みやすさを改善し、メンテナンスを容易にし、デバッグを助け、複雑さを減らし、信頼性を高めます。 これらのガイドラインは、すべての新しいモジュールおよびすべての新しい開発に適用されるべきです。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:14
 msgid "When modifying existing files in **stable version** the original file style strictly supersedes any other style guidelines. In other words please never modify existing files in order to apply these guidelines. It avoids disrupting the revision history of code lines. Diff should be kept minimal. For more details, see our `pull request guide <https://odoo.com/submit-pr>`_."
-msgstr ""
+msgstr "**安定版** で既存のファイルを変更する場合、オリジナルのファイルスタイルは他のスタイルガイドラインよりも絶対的に優先されます。 つまり、これらのガイドラインを適用するために、既存のファイルを変更しないでください。 コード行のリビジョン履歴を乱すのを避けます。差分は最小限に抑えるべきです。詳細については、 `pull request guide <https://odoo.com/submit-pr>`_ を参照してください。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:22
 msgid "When modifying existing files in **master (development) version** apply those guidelines to existing code only for modified code or if most of the file is under revision. In other words modify existing files structure only if it is going under major changes. In that case first do a **move** commit then apply the changes related to the feature."
-msgstr ""
+msgstr "**master (development) バージョン** の既存のファイルを変更する場合は、既存のコードにこれらのガイドラインを適用します。 つまり、既存のファイル構造を大幅に変更する場合にのみ変更します。 その場合、最初に **move** コミットを実行し、その機能に関連する変更を適用します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:29
 msgid "Module structure"
@@ -400,55 +400,55 @@ msgstr "モジュール構造"
 
 #: ../../content/contributing/development/coding_guidelines.rst:32
 msgid "Directories"
-msgstr ""
+msgstr "ディレクトリ構成"
 
 #: ../../content/contributing/development/coding_guidelines.rst:34
 msgid "A module is organized in important directories. Those contain the business logic; having a look at them should make you understand the purpose of the module."
-msgstr ""
+msgstr "モジュールは重要なディレクトリにまとめられています。 それらはビジネスロジックを含んでおり、それらを見ることでモジュールの目的を理解できるようにします。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:37
 msgid "*data/* : demo and data xml"
-msgstr ""
+msgstr "*data/* : デモとデータのxml"
 
 #: ../../content/contributing/development/coding_guidelines.rst:38
 msgid "*models/* : models definition"
-msgstr ""
+msgstr "*models/* : モデルの定義"
 
 #: ../../content/contributing/development/coding_guidelines.rst:39
 msgid "*controllers/* : contains controllers (HTTP routes)"
-msgstr ""
+msgstr "*controllers/* : コントローラー (HTTP ルート)"
 
 #: ../../content/contributing/development/coding_guidelines.rst:40
 msgid "*views/* : contains the views and templates"
-msgstr ""
+msgstr "*views/* : ビューとテンプレートが含まれています"
 
 #: ../../content/contributing/development/coding_guidelines.rst:41
 msgid "*static/* : contains the web assets, separated into *css/, js/, img/, lib/, ...*"
-msgstr ""
+msgstr "*static/* : *css/, js/, img/, lib/, ...* で構成されるWeb アセットを含みます。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:43
 msgid "Other optional directories compose the module."
-msgstr ""
+msgstr "その他の任意のディレクトリがモジュールを構成します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:45
 msgid "*wizard/* : regroups the transient models (``models.TransientModel``) and their views"
-msgstr ""
+msgstr "*ウィザード/* : 一時モデル (``models.TransientModel``) とそのビュー"
 
 #: ../../content/contributing/development/coding_guidelines.rst:46
 msgid "*report/* : contains the printable reports and models based on SQL views. Python objects and XML views are included in this directory"
-msgstr ""
+msgstr "*report/* : SQL ビューに基づく印刷可能なレポートとモデルが含まれています。Python オブジェクトと XML ビューは、このディレクトリに含まれています。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:47
 msgid "*tests/* : contains the Python tests"
-msgstr ""
+msgstr "*tests/* : Python テストが含まれています"
 
 #: ../../content/contributing/development/coding_guidelines.rst:51
 msgid "File naming"
-msgstr ""
+msgstr "ファイルの命名"
 
 #: ../../content/contributing/development/coding_guidelines.rst:53
 msgid "File naming is important to quickly find information through all odoo addons. This section explains how to name files in a standard odoo module. As an example we use a `plant nursery <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ application. It holds two main models *plant.nursery* and *plant.order*."
-msgstr ""
+msgstr "ファイル名は、すべてのアドオンから情報をすばやく見つけるために重要です。このセクションでは、標準の odoo モジュールでファイルに名前を付ける方法を説明します。 例として、 `plant murde <https://github.com/tivisse/odoodays-2018/tree/master/plant_nursery>`_ アプリケーションを使用します。 *plant.narsery* と *plant.order* の2つの主要なモデルを保持します。"
 
 #: ../../content/contributing/development/coding_guidelines.rst:58
 msgid "Concerning *models*, split the business logic by sets of models belonging to a same main model. Each set lies in a given file named based on its main model. If there is only one model, its name is the same as the module name. Each inherited model should be in its own file to help understanding of impacted models."
