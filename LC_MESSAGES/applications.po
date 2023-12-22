@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-08 08:46+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,9 @@ msgstr ""
 
 #: ../../content/applications.rst:9
 msgid "User Docs"
-msgstr ""
+msgstr "ユーザードキュメント"
 
 #: ../../content/applications.rst:11
 msgid "Discover our user guides and configuration tutorials per application."
-msgstr ""
+msgstr "アプリケーションごとのユーザーガイドと設定チュートリアルをご覧ください。"
 

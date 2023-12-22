@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +83,7 @@ msgstr ""
 #: ../../content/applications/sales/subscriptions/closing.rst:31
 #: ../../content/applications/sales/subscriptions/upselling.rst:25
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/sales/crm/acquire_leads/convert.rst:16
 msgid "For this feature to work, go to :menuselection:`CRM --> Configuration --> Settings` and activate the *Leads* feature."
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: ../../content/applications/sales/point_of_sale.rst:6
 msgid "Point of Sale"
-msgstr ""
+msgstr "POSシステム"
 
 #: ../../content/applications/sales/point_of_sale.rst:8
 msgid "With **Odoo Point of Sale**, run your shops and restaurants easily. The app works on any device with a web browser, even if you are temporarily offline. Product moves are automatically registered in your stock, you get real-time statistics, and your data is consolidated across all shops."

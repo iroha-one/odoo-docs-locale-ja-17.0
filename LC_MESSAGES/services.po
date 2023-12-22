@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr ""
 #: ../../content/applications/services/project/project_management.rst:17
 #: ../../content/applications/services/project/tasks/recurring_tasks.rst:13
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/services/field_service/default_warehouse.rst:18
 msgid "To set up a user default warehouse, the :doc:`storage locations <../../inventory_and_mrp/inventory/management/warehouses/warehouses_locations>` feature needs to be activated in the **Inventory** app. It is also necessary to have more than one warehouse in your database."
@@ -181,7 +181,7 @@ msgstr ""
 
 #: ../../content/applications/services/helpdesk/advanced.rst:5
 msgid "Advanced"
-msgstr ""
+msgstr "上級者向け"
 
 #: ../../content/applications/services/helpdesk/advanced/after_sales.rst:3
 msgid "After-Sales services"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../content/administration.rst:8
 msgid "Install and Maintain"
-msgstr ""
+msgstr "インストールとメンテナンス"
 
 #: ../../content/administration.rst:10
 msgid "These guides provide instructions on how to install, maintain and upgrade Odoo databases."
@@ -1091,7 +1091,7 @@ msgstr ""
 
 #: ../../content/administration/install/source.rst:19
 msgid "Fetch the sources"
-msgstr ""
+msgstr "ソースコードの取得"
 
 #: ../../content/administration/install/source.rst:21
 msgid "There are two ways to obtain the source code of Odoo: as a ZIP **archive** or through **Git**."
@@ -3576,7 +3576,7 @@ msgstr ""
 
 #: ../../content/administration/maintain/update.rst:6
 msgid "Bugfix updates"
-msgstr ""
+msgstr "バグ修正アップデート"
 
 #: ../../content/administration/maintain/update.rst:9
 msgid "Introduction"
@@ -3724,7 +3724,7 @@ msgstr ""
 
 #: ../../content/administration/odoo_sh/advanced.rst:5
 msgid "Advanced"
-msgstr ""
+msgstr "上級者向け"
 
 #: ../../content/administration/odoo_sh/advanced/containers.rst:4
 msgid "Containers"

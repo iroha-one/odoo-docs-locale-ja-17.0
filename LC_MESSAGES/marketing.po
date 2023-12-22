@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-08 08:46+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -1380,7 +1380,7 @@ msgstr ""
 
 #: ../../content/applications/marketing/marketing_automation/advanced.rst:5
 msgid "Advanced"
-msgstr ""
+msgstr "上級者向け"
 
 #: ../../content/applications/marketing/marketing_automation/advanced/understanding_metrics.rst:3
 msgid "Understanding metrics"

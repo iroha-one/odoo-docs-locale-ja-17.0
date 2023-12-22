@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -396,7 +396,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/discuss/advanced.rst:5
 msgid "Advanced"
-msgstr ""
+msgstr "上級者向け"
 
 #: ../../content/applications/productivity/discuss/advanced/ice_servers.rst:3
 msgid "Configure ICE servers with Twilio"
@@ -826,7 +826,7 @@ msgstr ""
 #: ../../content/applications/productivity/iot/config.rst:5
 #: ../../content/applications/productivity/mail_plugins/outlook.rst:10
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/productivity/iot/config/connect.rst:3
 msgid "Connect an IoT box to Odoo"
@@ -3970,7 +3970,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:25
 msgid "Model"
-msgstr ""
+msgstr "モデル"
 
 #: ../../content/applications/productivity/studio/automated_actions.rst:27
 msgid "Select the model where the automated action should be applied."
@@ -5380,7 +5380,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:40
 msgid "Form"
-msgstr ""
+msgstr "フォーム"
 
 #: ../../content/applications/productivity/studio/views.rst:42
 msgid "The :guilabel:`Form` view is used when creating and editing records, such as contacts, sales orders, products, etc."
@@ -5417,7 +5417,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:76
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: ../../content/applications/productivity/studio/views.rst:78
 msgid "The :guilabel:`Search` view is added on top of other views to filter, group, and search records."
@@ -5469,7 +5469,7 @@ msgstr ""
 
 #: ../../content/applications/productivity/studio/views.rst:127
 msgid "List"
-msgstr ""
+msgstr "一覧表示"
 
 #: ../../content/applications/productivity/studio/views.rst:129
 msgid "The :guilabel:`List` view is used to overview many records at once, look for records, and edit simple records."

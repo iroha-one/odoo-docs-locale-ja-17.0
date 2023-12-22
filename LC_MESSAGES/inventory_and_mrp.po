@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: odoo-docs-locale-ja-170\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-30 14:44+0000\n"
-"PO-Revision-Date: 2023-12-22 11:39\n"
+"PO-Revision-Date: 2023-12-22 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp.rst:5
 msgid "Inventory & MRP"
-msgstr ""
+msgstr "在庫とMRP"
 
 #: ../../content/applications/inventory_and_mrp/barcode.rst:8
 msgid "Barcode"
@@ -39,27 +39,27 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:3
 msgid "Process to an Inventory Adjustment with Barcodes"
-msgstr ""
+msgstr "バーコードによる在庫調整へのプロセス"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:5
 msgid "To process an inventory adjustment by using barcodes, you first need to open the *Barcode* app. Then, from the application, click on *Inventory Adjustments*."
-msgstr ""
+msgstr "バーコードを使用して在庫調整を実施するには、まず *バーコード* アプリを開いてから、アプリの *在庫調整* をクリックします。"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:13
 msgid "If you want to fully work with barcodes, you can download the sheet *Commands for Inventory*."
-msgstr ""
+msgstr "バーコードのすべての機能を使用したい場合は、 *Inventory用のコマンド* シートをダウンロードしてください。"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:16
 msgid "Once you have clicked on *Inventory Adjustments*, Odoo will automatically create one. Note that, if you work with multi-location, you first need to specify in which location the inventory adjustment takes place."
-msgstr ""
+msgstr "*在庫調整* をクリックすると、Odooが自動的に作成します。 マルチロケーションを使用する場合は、最初に在庫調整が行われる場所を指定する必要があります。"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:24
 msgid "If you don’t work with multi-location, you will be able to scan the different products you want to include in the inventory adjustment."
-msgstr ""
+msgstr "マルチロケーションでの作業ではなければ、、在庫調整に含めたい異なる製品をスキャンすることができます。"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:31
 msgid "If you have 5 identical articles, scan it 5 times or use the keyboard to set the quantity."
-msgstr ""
+msgstr "同一のものが5つある場合は、5回スキャンするか、キーボードで数量を入力します。"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/adjustments.rst:34
 msgid "Besides using the barcode scanner, you can also manually add a product if necessary. To do so, click on *Add Product* and fill the information in manually."
@@ -809,7 +809,7 @@ msgstr ""
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/work_order_dependencies.rst:13
 #: ../../content/applications/inventory_and_mrp/purchase/manage_deals/control_bills.rst:10
 msgid "Configuration"
-msgstr ""
+msgstr "構成設定"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/gs1_usage.rst:54
 msgid "First, :ref:`enable product tracking using lots <inventory/management/track_products_by_lots>` by navigating to :menuselection:`Inventory app --> Configuration --> Settings`, and checking the box for :guilabel:`Lots & Serial Numbers` under the :guilabel:`Traceability` heading."
@@ -1063,7 +1063,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/internal.rst:56
 msgid "Delivery Orders"
-msgstr ""
+msgstr "出荷オーダー"
 
 #: ../../content/applications/inventory_and_mrp/barcode/operations/internal.rst:58
 msgid "When delivering a product, you have to scan the source location if it is different than the one initially set on the transfer. Then, you can start scanning the products that are delivered from this specific location."
@@ -1275,7 +1275,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/inventory.rst:8
 msgid "Inventory"
-msgstr ""
+msgstr "在庫"
 
 #: ../../content/applications/inventory_and_mrp/inventory.rst:10
 msgid "Odoo *Inventory* is both an inventory application and a warehouse management system. The app allows users to easily manage lead times, automate replenishment, configure advanced routes, and more."
@@ -1283,7 +1283,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/inventory.rst:14
 msgid "`Odoo Tutorials: Inventory <https://www.odoo.com/slides/inventory-24>`_"
-msgstr ""
+msgstr "`Odoo チュートリアル: 在庫管理（Inventory） <https://www.odoo.com/slides/inventory-24>`_"
 
 #: ../../content/applications/inventory_and_mrp/inventory/management.rst:5
 msgid "Warehouse management"
@@ -3753,7 +3753,7 @@ msgstr ""
 #: ../../content/applications/inventory_and_mrp/inventory/management/products.rst:5
 #: ../../content/applications/inventory_and_mrp/purchase/products.rst:5
 msgid "Products"
-msgstr ""
+msgstr "製品"
 
 #: ../../content/applications/inventory_and_mrp/inventory/management/products/mto.rst:3
 msgid "Replenish on order (MTO)"
@@ -5436,7 +5436,7 @@ msgstr ""
 #: ../../content/applications/inventory_and_mrp/inventory/management/shipments_deliveries/receipts_delivery_two_steps.rst:69
 #: ../../content/applications/inventory_and_mrp/inventory/management/shipments_deliveries/receipts_three_steps.rst:46
 msgid "Create a purchase order"
-msgstr ""
+msgstr "発注書の作成"
 
 #: ../../content/applications/inventory_and_mrp/inventory/management/shipments_deliveries/receipts_delivery_one_step.rst:39
 #: ../../content/applications/inventory_and_mrp/inventory/management/shipments_deliveries/receipts_delivery_two_steps.rst:71
@@ -9035,7 +9035,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/manufacturing.rst:8
 msgid "Manufacturing"
-msgstr ""
+msgstr "製造アプリ（Manufacturing）"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing.rst:10
 msgid "**Odoo Manufacturing** helps manufacturers schedule, plan, and process manufacturing orders. With the work center control panel, put tablets on the shop floor to control work orders in real-time and allow workers to trigger maintenance operations, feedback loops, quality issues, etc."
@@ -9043,15 +9043,15 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/manufacturing.rst:15
 msgid "`Odoo Tutorials: MRP <https://www.odoo.com/slides/mrp-29>`_"
-msgstr ""
+msgstr "`Odoo チュートリアル: MRP <https://www.odoo.com/slides/mrp-29>`_"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing.rst:16
 msgid "`Odoo Tutorials: Barcode Scanner <https://www.odoo.com/slides/barcode-30>`_"
-msgstr ""
+msgstr "`Odoo チュートリアル: バーコードスキャナ <https://www.odoo.com/slides/barcode-30>`_"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing.rst:17
 msgid ":doc:`IoT Boxes (MES) </applications/productivity/iot>`"
-msgstr ""
+msgstr ":doc:`IoT ボックス (MES) </applications/productivity/iot>`"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management.rst:5
 msgid "Manufacturing workflows"
@@ -9071,7 +9071,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:14
 msgid "Correctly setting up a :abbr:`BoM (Bill of Materials)` helps optimize the manufacturing process and save time."
-msgstr ""
+msgstr ":abbr:`BoM (Bill of Materials)` を正しく設定することで、製造プロセスを最適化し、時間を節約できます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:18
 msgid "Set up a bill of materials (BoM)"
@@ -9079,79 +9079,79 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:20
 msgid "The simplest :abbr:`BoM (Bill of Materials)` setup is one without operations or instructions, only components. In this case, the production is solely managed using *Manufacturing Orders*."
-msgstr ""
+msgstr "最も単純な :abbr:`BoM (Bill of Materials)` のセットアップは、オペレーションや指示がなく、コンポーネントのみのセットアップです。この場合、生産自体は *製造指示* を使用して単独で管理されます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:23
 msgid "To create a :abbr:`BoM (Bill of Materials)` from the :guilabel:`Manufacturing` module, go to :menuselection:`Products --> Bills of Materials`. Then, click :guilabel:`Create`. Next, specify the :guilabel:`Product`."
-msgstr ""
+msgstr ":guilabel:`Manufacturing` アプリ側から :abbr:`BoM (Bill of Materials)` を作成するには、 :menuselection:`Products --> Bills of Materials` で画面遷移します。次に、 :guilabel:`Create` をクリックします。そして、 :guilabel:`Product` を指定します。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:28
 msgid "A :abbr:`BoM (Bill of Materials)` can also be created directly from the product form, in which case the :guilabel:`Product` field is pre-filled."
-msgstr ""
+msgstr ":abbr:`BoM (Bill of Materials)` は製品フォームから直接作成することもできます。この場合、 :guilabel:`Product` フィールドは事前に入力されます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:31
 msgid "For a standard :abbr:`BoM (Bill of Materials)`, set the :guilabel:`BoM Type` to :guilabel:`Manufacture this Product`. Then, click :guilabel:`Add a Line` to specify the various components that make up the production of the final product and their respective quantities. New components can be created quickly through the :abbr:`BoM (Bill of Materials)`, or can be created beforehand in :menuselection:`Manufacturing --> Products --> Products --> Create`. Finally, click :guilabel:`Save` to finish creating the :abbr:`BoM (Bill of Materials)`."
-msgstr ""
+msgstr "標準的な :abbr:`BoM (Bill of Materials)` の場合、 :guilabel:`BoM Type` を :guilabel:`Manufacture this Product` に設定します。次に、 :guilabel:`Add a Line` をクリックして、完成品の製造を構成する様々なコンポーネントとその数量を指定します。新しいコンポーネントは :abbr:`BoM (Bill of Materials)` でもここで作成することができますが、 :menuselection:`Manufacturing --> Products --> Products --> Create` であらかじめ作成しておくこともできます。最後に :guilabel:`Save` をクリックして、 :abbr:`BoM (Bill of Materials)` の作成を完了します。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:-1
 msgid "Set up a Bill of Materials."
-msgstr ""
+msgstr "部品表 (BoM) の設定"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:43
 msgid "Specify a bill of materials (BoM) for a product variant"
-msgstr ""
+msgstr "部品表 (BoM) でのバリエーション製品の設定"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:45
 msgid ":abbr:`BoMs (Bills of Materials)` can also be assigned to specific *Product Variants*, with two setup options available to choose from."
-msgstr ""
+msgstr ":abbr:`BoMs (Bills of Materials)` では特定の製品においてその *製品のバリエーション* を持たせることができ、２つの方法から選択できます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:49
 msgid "In order to assign :abbr:`BoMs (Bills of Materials)` to product variants, the product's variant attributes must already be configured on the product form."
-msgstr ""
+msgstr ":abbr:`BoMs (Bills of Materials)` をバリエーション製品に割り当てるには、製品のバリアント属性が製品フォームで既に構成されている必要があります。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:52
 msgid "The first method is to create one :abbr:`BoM (Bill of Materials)` per variant by creating a new :abbr:`BoM (Bill of Materials)` and specifying the :guilabel:`Product Variant`. The second method is to create one master :abbr:`BoM (Bill of Materials)` that contains all of the components, and specify which variant each component applies to using the :guilabel:`Apply on Variants` column."
-msgstr ""
+msgstr "一つ目の方法は、新規に :abbr:`BoM (Bill of Materials)` を作成し、 :guilabel:`Product Variant` を指定して、バリエーションごとに 1つの :abbr:`BoM (Bill of Materials)` を作成することです。二つ目の方法は、すべてのコンポーネントを含む1 つのマスター :abbr:`BoM (Bill of Materials)` を作成し、 :guilabel:`Apply on Variants` 列を使用して各コンポーネントが適用されるバリエーションを指定することです。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:-1
 msgid "Product Variants in the Bill of Materials."
-msgstr ""
+msgstr "バリエーション製品の部品表"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:62
 msgid "Set up operations"
-msgstr ""
+msgstr "オペレーションの設定"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:64
 msgid "Add an :guilabel:`Operation` to a :abbr:`BoM (Bill of Materials)` to specify instructions for production and register time spent on an operation. To use this feature, first enable the :guilabel:`Work Orders` feature in :menuselection:`Manufacturing --> Configuration --> Settings --> Operations`."
-msgstr ""
+msgstr ":guilabel:`Operation` を :abbr:`BoM (Bill of Materials)` に追加して、生産の指示を指定し、オペレーションに費やされた時間を登録します。この機能を使用するには、はじめに :menuselection:`Manufacturing --> Configuration --> Settings --> Operations` で :guilabel:`Work Orders` 機能を有効にしておきます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:69
 msgid "Then, when creating a new :abbr:`BoM (Bill of Materials)`, click on the :guilabel:`Operations` tab and click :guilabel:`Add a line` to add a new operation. In the :guilabel:`Create Operations` box, give the operation a name, specify the :guilabel:`Work Center` and duration settings. Like components, Odoo gives the option to specify a product variant in the :guilabel:`Apply on Variants` field so the operation only applies to that variant. Finally, click :guilabel:`Save & Close`."
-msgstr ""
+msgstr "次に、新しい :abbr:`BoM (Bill of Materials)` を作成するときに、 :guilabel:`Operations` タブをクリックし、 :guilabel:`Add a line` をクリックして新しいオペレーションを追加します。 :guilabel:`Create Operations` ボックスで、オペレーションに名前を付け、 :guilabel:`ワークセンター` の指定と期間の設定を行います。コンポーネントと同様に、Odoo には :guilabel:`Apply on Variants` フィールドでバリエーション製品を指定できるオプションがあり 、そのオペレーションはそのバリエーション製品にのみ適用されます。最後に、 :guilabel:`Save & Close` をクリックします。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:76
 msgid "Each operation is unique, as it is always exclusively linked to one :abbr:`BoM (Bill of Materials)`. Operations can be reused when configuring a new :abbr:`BoM (Bill of Materials)`, with the :guilabel:`Copy Existing Operations` feature."
-msgstr ""
+msgstr "それぞれのオペレーションは、常に 1 つの :abbr:`BoM (Bill of Materials - 部品表)` に排他的にリンクされているため、一意です。 :guilabel:`Copy Existing Operations` で既存オペレーションのコピー機能を使用すれば、新しい :abbr:`BoM (Bill of Materials)` を構成する際にオペレーションを再利用することができます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:-1
 msgid "Copy Existing Operations feature."
-msgstr ""
+msgstr "既存オペレーションのコピー機能"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:85
 msgid "Add by-products to a bill of materials (BoM)"
-msgstr ""
+msgstr "部品表 (BoM) への副産物の追加"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:87
 msgid "A *By-Product* is a residual product that is created during production in addition to the main product of a :abbr:`BoM (Bill of Materials)`. Unlike the primary product, there can be more than one by-product on a :abbr:`BoM (Bill of Materials)`."
-msgstr ""
+msgstr "*副産物* は、 :abbr:`BoM (Bill of Materials)` の主要製品に加えて製造工程にて作成される残余製品です。主要製品とは異なり、 :abbr:`BoM (Bill of Materials)` には複数の副産物が存在する場合もあります。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:91
 msgid "To add by-products to a :abbr:`BoM (Bill of Materials)`, first enable the :guilabel:`By-Products` feature in :menuselection:`Manufacturing --> Configuration --> Settings --> Operations`."
-msgstr ""
+msgstr "副産物を :abbr:`BoM (Bill of Materials)` に追加するには、事前に :menuselection:`Manufacturing --> Configuration --> Settings --> Operations` で :guilabel:`By-Products` 機能を有効にしておきます。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/bill_configuration.rst:94
 msgid "Once the feature is enabled, you can add by-products to a :abbr:`BoM (Bill of Materials)` by clicking on the :guilabel:`Operations` tab and clicking :guilabel:`Add a line`. Then, name the by-product and indicate the :guilabel:`Quantity` and the :guilabel:`Unit of Measure`. If the :abbr:`BoM (Bill of Materials)` has configured operations, specify exactly which operation the by-product is produced from in the :guilabel:`Produced in Operation` field. Finally, click :guilabel:`Save`."
-msgstr ""
+msgstr "この機能を有効にすると、 :guilabel:`By-products` タブ内の :guilabel:`Add a line` をクリックして、副産物を :abbr:`BoM (Bill of Materials)` に追加できます。次に、副産物に名前を付け、 :guilabel:`Quantity` と :guilabel:`Unit of Measure` を示しておきます。 :abbr:`BoM (Bill of Materials)` にオペレーションが設定されている場合は 、副産物がどのオペレーションから生産されるかを :guilabel:`Produced in Operation` フィールドに細かく指定します。最後に、 :guilabel:`Save` をクリックします。"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/configure_manufacturing_product.rst:3
 msgid "Manufacturing product configuration"
@@ -9223,7 +9223,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/kit_shipping.rst:3
 msgid "Use kits"
-msgstr ""
+msgstr "キットの使用"
 
 #: ../../content/applications/inventory_and_mrp/manufacturing/management/kit_shipping.rst:5
 msgid "In Odoo, a *kit* is a type of bill of materials (BoM) that can be manufactured and sold. Kits are sets of unassembled components sold to customers. They may be sold as standalone products, but are also useful tools for managing more complex bills of materials (BoMs)."
@@ -12008,7 +12008,7 @@ msgstr ""
 
 #: ../../content/applications/inventory_and_mrp/purchase/advanced.rst:5
 msgid "Advanced"
-msgstr ""
+msgstr "上級者向け"
 
 #: ../../content/applications/inventory_and_mrp/purchase/advanced/analyze.rst:3
 msgid "Analyze the performance of your purchases"
